@@ -6,13 +6,7 @@
     justify-content: center;
     gap: 4rem;
 }
-.options {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-    gap: 1rem;
-}
+
 li {
     list-style: none;
     font-size: 1.2rem;
@@ -23,12 +17,4 @@ li {
     align-items: center;
     text-align: center;
 }
-.icons{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    gap: 1rem;
-}
-.icons li img {
-    width: 2.5rem;
-}
+
